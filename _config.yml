@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://johnnyadmin.github.io
+title: RB's Thoughts And Observations
+tagline: My take on many things
+description: My new site
+paginate: 5
